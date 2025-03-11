@@ -41,14 +41,6 @@ git clone https://github.com/yourusername/AI-Reinforcement-Learning.git
 cd AI-Reinforcement-Learning
 ```
 
-2. Install the required dependencies:
-
-```bash
-pip install gym==0.25.2 keras==2.10.0 keras-rl2==1.0.5 protobuf==3.20.0 numpy==1.18.5
-pip install tensorflow==2.3.0
-pip install gym[classic_control]
-```
-
 ## Running the Project
 
 ### Recommended: Using VSCode with Jupyter Extension
