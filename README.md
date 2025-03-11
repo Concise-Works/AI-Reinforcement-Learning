@@ -77,4 +77,4 @@ cd AI-Reinforcement-Learning
 
 ## Credits
 
-This project is based on Nicholas Renotte's workshop on Deep Learning. The original workshop can be found at [YouTube - Nicholas Renotte](https://www.youtube.com/watch?v=cO5g5qLrLSo).
+This project is based on Nicholas Renotte's workshop on Deep Learning, which this repo serves to maintain for future learners. The original workshop can be found at [YouTube - Nicholas Renotte](https://www.youtube.com/watch?v=cO5g5qLrLSo).
